@@ -18,9 +18,9 @@
 <h2 align="center"> 📱 Me on Media </h2>
 <p align="center">
   <a href="https://www.instagram.com/fake_smile.0001/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="https://twitter.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-  <a href="https://www.linkedin.com/in/yvk4itrun/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="https://discord.com/users/1088554690268119103"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+  <a href="https://twitter.com/fakesmile0001"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+  <a href="https://www.linkedin.com/in/fakesmile0001/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="https://discord.com/users/927537080882561025"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </p>
 
 ---
